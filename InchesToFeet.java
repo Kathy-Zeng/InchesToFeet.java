@@ -11,8 +11,8 @@ public class InchesToFeet;
 {
   public static void main(String[] args);
   {
-   int inches;
-	 double feet;
+   int inches; 
+   double feet; 
 	 
    Scanner src = new Scanner(System.in); 
    System.out.println("Please enter the number of inches: "); 
