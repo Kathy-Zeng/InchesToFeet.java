@@ -17,7 +17,7 @@ public class InchesToFeet;
    Scanner src = new Scanner(System.in); 
    System.out.println("Please enter the number of inches: "); 
    inches = input.nextInt(); 
-   System.out.printf("Inches %.2f"); 
+   System.out.printf("%.2f - %s",inches); 
    inches = input.nextFloat(); 
    feet = inches/12; 
    System.out.println("Please enter the number of feet: ");
