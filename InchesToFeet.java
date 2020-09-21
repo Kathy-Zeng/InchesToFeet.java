@@ -1,11 +1,15 @@
 // Kathy Zeng
 // 9/17/20
 // This program gives me inches to feet conversion.
-// InchesToFeet.java
-1. Initialize and declare variables 
-2. Input strings 
-3. Convert from inches to feet 
+/* InchesToFeet.java
+ *
+ *  Working on: Convert from inches to feet
+ */
 
+ /* Pseudocode
+ *
+ *
+ */
 import java.util.Scanner;
 public class InchesToFeet;
 {
